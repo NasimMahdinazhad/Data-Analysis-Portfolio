@@ -9,12 +9,12 @@ Outside of structured learning, I enjoy exploring new tools and methodologies in
 This repository is a space to share projects, demonstrate skills, and document my learning journey in data analytics. 
 
 # Table of Contents
--About
--Portfolio Projects
-  -Python
-  -R
-  -SQL
-    -Rockbuster Stealth LLC
+- About
+- Portfolio Projects
+  - Python
+  - R
+  - SQL
+    - Rockbuster Stealth LLC
 
 
 
