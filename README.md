@@ -37,10 +37,8 @@ _● Do sales figures vary between geographic regions?_
 
 **Skills:** Joins, CTE's, Aggregate Functions, Creating Views
 
-**Files:** [Data Dictionary.pdf](https://github.com/NasimMahdinazhadd/Rockbuster-Stealth-Video-Rental-Analysis/blob/main/Data%20Dictionary.pdf)
-
-           [Rockbuster_Queries.sql](https://github.com/NasimMahdinazhadd/Rockbuster-Stealth-Video-Rental-Analysis/blob/main/Rockbuster_Queries.sql)
-           
+**Files:** [Data Dictionary.pdf](https://github.com/NasimMahdinazhadd/Rockbuster-Stealth-Video-Rental-Analysis/blob/main/Data%20Dictionary.pdf),
+           [Rockbuster_Queries.sql](https://github.com/NasimMahdinazhadd/Rockbuster-Stealth-Video-Rental-Analysis/blob/main/Rockbuster_Queries.sql),
            [Outputs & Insights.pdf](https://github.com/NasimMahdinazhadd/Rockbuster-Stealth-Video-Rental-Analysis/blob/main/Outputs%20%26%20Insights.pdf)
            
 
