@@ -5,4 +5,6 @@ Throughout my academic and professional journey, I’ve developed the ability to
 
 Outside of structured learning, I enjoy exploring new tools and methodologies in the data space. I’m passionate about continuous learning and thrive in both collaborative environments and independent projects.
 
+This repository is a space to share projects, demonstrate skills, and document my learning journey in data analytics. 
+
 
