@@ -19,9 +19,10 @@ This repository is a space to share projects, demonstrate skills, and document m
 ## Portfolio Projects
 This section lists data analytics projects with short overviews of the tools used.
 ### Rockbuster Stealth LLC 
-Rockbuster Stealth LLC, a former global movie rental chain, plans to launch an online video rental service using its existing film licenses. The dataset includes information on film inventory, customers, payments, among other things. The goal of this project was to support the company’s online launch strategy by answering key business questions with data-driven insights. This project includes the following steps: data loading into the PostgreSQL database, data cleaning and preprocessing, EDA (exploratory data analysis), and presenting results by creating visualizations. 
+Rockbuster Stealth LLC, a former global movie rental chain, plans to launch an online video rental service using its existing film licenses. The dataset includes information on film inventory, customers, payments, among other things. The goal of this project was to support the company’s online launch strategy by answering key business questions with data-driven insights. 
+This project includes the following steps: data loading into the PostgreSQL database, data cleaning and preprocessing, EDA (exploratory data analysis), and presenting results by creating visualizations. 
 
-*Key questions:*
+**Key questions:**
 
 _● Which movies contributed the most/least to revenue gain?_
 
