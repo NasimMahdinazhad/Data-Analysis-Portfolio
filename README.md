@@ -15,6 +15,7 @@ This repository is a space to share projects, demonstrate skills, and document m
   - R
   - SQL
     - [Rockbuster Stealth LLC](#rockbuster-stealth-llc)
+  - Tableau
 
 ## Portfolio Projects
 This section lists data analytics projects with short overviews of the tools used.
