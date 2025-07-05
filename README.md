@@ -12,7 +12,7 @@ This repository is a space to share projects, demonstrate skills, and document m
 - [About](#about)
 - [Portfolio Projects](#portfolio-projects)
   - Python
-    - [Instacart Basket Analysis](#Instacart-Basket-Analysis).
+    - [Instacart Basket Analysis](#Instacart-Basket-Analysis)
   - R
   - SQL
     - [Rockbuster Stealth LLC](#rockbuster-stealth-llc)
@@ -43,7 +43,7 @@ _● Do sales figures vary between geographic regions?_
            [Rockbuster_Queries.sql](https://github.com/NasimMahdinazhadd/Rockbuster-Stealth-Video-Rental-Analysis/blob/main/Rockbuster_Queries.sql),
            [Outputs & Insights.pdf](https://github.com/NasimMahdinazhadd/Rockbuster-Stealth-Video-Rental-Analysis/blob/main/Outputs%20%26%20Insights.pdf)
            
-### Instacart Basket Anlysis 
+### Instacart Basket Analysis 
 **Description:** Instacart is an online grocery store that operates through an app. While the company already has strong sales, it wants to gain deeper insight into its sales patterns. The stakeholders are particularly interested in understanding the diversity of customers in their database and their purchasing behaviors. They believe a single marketing approach may not be effective for all customers and are therefore considering a targeted marketing strategy. Their goal is to reach different customer groups with relevant marketing campaigns and evaluate whether these campaigns impact product sales. 
 
 **Goal:** perform an initial data and exploratory analysis of some of Instacart Basket data in order to derive insights and suggest strategies for better segmentation based on the provided criteria. The
@@ -71,7 +71,7 @@ _● What differences can you find in ordering habits of different customer prof
 
 **Skills:** Data wrangling, EDA (exploratory data analysis), data visualizations, and making a final report.
 
-**Files:** [Instacart Basket Analysis.ipynb](Instacart_Basket_Analysis/Instacart_Basket_Analysis.ipynb),
-           [Final Report.xlsx](Instacart_Basket_Analysis/Final_Report_Instacart_Basket_Analysis.xlsx.pdf)
+**Files:** [Instacart Basket Analysis.ipynb](https://github.com/NasimMahdinazhadd/Portfolio_Projects/blob/main/Instacart_Basket_Analysis/Instacart_Basket_Analysis.ipynb),
+           [Final Report.xlsx](https://github.com/NasimMahdinazhadd/Portfolio_Projects/blob/main/Instacart_Basket_Analysis/Instacart_Basket_Analysis.ipynb)
            
 
