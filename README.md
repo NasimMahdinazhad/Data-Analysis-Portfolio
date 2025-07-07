@@ -1,12 +1,13 @@
 # Nasim Mahdinazhad - Data-Analysis-Portfolio
 ## About
-Hi, I'm Nasim! I have an analytical background in linguistic data science and a strong foundation in language technology. I’m currently completing a vocational training program in Data Analytics and have developed a deep passion for using data to uncover meaningful insights. 
 
-Throughout my academic and earlier professional journey, I’ve developed the ability to work with complex datasets, identify patterns, and extract actionable outputs. My experience includes advanced statistical analysis and data modeling; the skills I’m eager to apply in a role as an entry-level data analyst.
+I have an analytical background in linguistic data science and a strong foundation in language technology. Currently completing a vocational training program in Data Analytics, I’ve developed a deep interest in using data to uncover insights and support informed decision-making.
 
-Outside of structured learning, I enjoy exploring new tools and methodologies in the data space. I’m passionate about continuous learning and thrive in both collaborative environments and independent projects.
+My portfolio highlights hands-on projects in exploratory data analysis and machine learning, using Python, R, and SQL for data manipulation, and tools like Seaborn, Matplotlib, and Tableau for visualization. I enjoy working with complex datasets, applying statistical methods and models, and turning data into clear, actionable insights.
 
-This repository is a space to share projects, demonstrate skills, and document my learning journey in data analytics. 
+Outside of structured learning, I actively explore new tools and techniques in the data space. I’m passionate about continuous learning and thrive in both independent and collaborative environments.
+
+This repository is a work in progress — I’m actively building it to reflect my skills, share projects, and document my learning journey in data analytics. 
 
 ## Table of Contents
 - [About](#about)
