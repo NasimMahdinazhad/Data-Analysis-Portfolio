@@ -18,7 +18,7 @@ This repository is a work in progress — I’m actively building it to reflect 
   - SQL
     - [Rockbuster Stealth LLC](#rockbuster-stealth-llc)
   - Tableau
-  - ([https://public.tableau.com/app/profile/nasim.mahdinazhad.sardhaei/vizzes]
+    - [https://public.tableau.com/app/profile/nasim.mahdinazhad.sardhaei/vizzes]
 
 ## Portfolio Projects
 This section lists data analytics projects with short overviews of the tools used.
