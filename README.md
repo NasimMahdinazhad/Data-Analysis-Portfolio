@@ -41,9 +41,9 @@ _● Do sales figures vary between geographic regions?_
 
 **Skills:** Joins, CTE's, Aggregate Functions, Creating Views
 
-**Files:** [Data Dictionary.pdf](https://github.com/NasimMahdinazhadd/Rockbuster-Stealth-Video-Rental-Analysis/blob/main/Data%20Dictionary.pdf),
-           [Rockbuster_Queries.sql](https://github.com/NasimMahdinazhadd/Rockbuster-Stealth-Video-Rental-Analysis/blob/main/Rockbuster_Queries.sql),
-           [Outputs & Insights.pdf](https://github.com/NasimMahdinazhadd/Rockbuster-Stealth-Video-Rental-Analysis/blob/main/Outputs%20%26%20Insights.pdf)
+**Files:** [Data Dictionary.pdf](https://github.com/NasimMahdinazhad/Portfolio_Projects/blob/main/Rockbuster%20Stealth%20LLC/Data%20Dictionary.pdf),
+           [Rockbuster_Queries.sql](https://github.com/NasimMahdinazhad/Portfolio_Projects/blob/main/Rockbuster%20Stealth%20LLC/Rockbuster_Queries.sql),
+           [Outputs & Insights.pdf](https://github.com/NasimMahdinazhad/Portfolio_Projects/blob/main/Rockbuster%20Stealth%20LLC/Outputs%20%26%20Insights.pdf)
            
 ### Instacart Basket Analysis 
 **Description:** Instacart is an online grocery store that operates through an app. While the company already has strong sales, it wants to gain deeper insight into its sales patterns. The stakeholders are particularly interested in understanding the diversity of customers in their database and their purchasing behaviors. They believe a single marketing approach may not be effective for all customers and are therefore considering a targeted marketing strategy. Their goal is to reach different customer groups with relevant marketing campaigns and evaluate whether these campaigns impact product sales. 
