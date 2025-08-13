@@ -27,16 +27,6 @@ This section lists data analytics projects with short overviews of the tools use
 
 **Goal:** The goal of this project was to support the company’s online launch strategy by answering their following key business questions with data-driven insights. 
 
-_● Which movies contributed the most/least to revenue gain?_
-
-_● What was the average rental duration for all videos?_
-
-_● Which countries are Rockbuster customers based in?_
-
-_● Where are customers with a high lifetime value based?_
-
-_● Do sales figures vary between geographic regions?_
-
 **Tool:** PostgreSQL
 
 **Skills:** Joins, CTE's, Aggregate Functions, Creating Views
@@ -50,24 +40,6 @@ _● Do sales figures vary between geographic regions?_
 
 **Goal:** perform an initial data and exploratory analysis of some of Instacart Basket data in order to derive insights and suggest strategies for better segmentation based on the provided criteria. The
 stakeholders would like to be able to answer the following key questions:
-
-_● What are the busiest days of the week and hours of the day in terms of order volume?_
-
-_● Are there specific times of day when customers tend to spend the most money?_
-
-_● Are there certain types of products that are more popular than others?_
-
-_● What’s the distribution among users in regards to their brand loyalty?_
-
-_● Are there differences in ordering habits based on a customer’s loyalty status?_
-
-_● Are there differences in ordering habits based on a customer’s region?_
-
-_● Is there a connection between age and family status in terms of ordering habits?_
-
-_● What different classifications does the demographic information suggest? Age? Income? Certain types of goods? Family status?_
-
-_● What differences can you find in ordering habits of different customer profiles such as order price, ordering frequency, and the types of products purchased?_
 
 **Tool:** Python (Jupyter Notebooks) and relevant libraries (pandas, NumPy, os, matplotlib, scipy, and seaborn)
 
