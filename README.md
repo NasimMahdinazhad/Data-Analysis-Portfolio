@@ -13,6 +13,7 @@ This repository is a work in progress; I’m actively building it to reflect my 
 - [Portfolio Projects](#portfolio-projects)
   - Python
     - [Instacart Basket Analysis](#Instacart-Basket-Analysis)
+    - [Network Analysis of Countries Relationships in 20th Century](#Network-Analysis)
   - R
   - SQL
     - [Rockbuster Stealth LLC](#rockbuster-stealth-llc)
@@ -39,11 +40,25 @@ This section lists data analytics projects with short overviews of the tools use
 
 **Goal:** The goal is to analyze Instacart basket data to uncover insights that support customer segmentation, enabling targeted marketing campaigns and assessing their impact on sales.
 
-**Tool:** Python (Jupyter Notebooks) and relevant libraries (pandas, NumPy, os, matplotlib, scipy, and seaborn)
+**Tool:** Python (Jupyter Notebooks) and relevant libraries (Pandas, NumPy, os, Matplotlib, Scipy, and Seaborn)
 
 **Skills:** Data wrangling, EDA (exploratory data analysis), data visualizations, and making a final report.
 
 **Files:** [Instacart Basket Analysis.ipynb](https://github.com/NasimMahdinazhad/Instacart-Basket-Analysis/blob/main/Analysis.ipynb),
            [Final Report](https://github.com/NasimMahdinazhad/Instacart-Basket-Analysis/blob/main/Report%20%26%20Insights.pdf)
+
+### Historical Network Analysis 
+**Description:** the Institute for Public Policy believes that past events heavily influence the current geopolitical climate. To delve deeper into this hypothesis, a clearer understanding of the historical relationships between countries in the twentieth century is needed.
+
+**Goal:** To provide an analytical overview and visualization of the interrelations between countries throughout the twentieth century, highlighting historical ties that can help the Institute better understand the dynamics of world politics during this volatile period.
+
+**Tool:** Python (Jupyter lab) and relevant libraries (Pandas, NumPy, Networkx, Scipy, re, Os, Matplotlib, and Spacy)
+
+**Skills:** Text mining, natural language processing (NLP), network analysis visualization.
+
+**Files:** [Text Mining](https://github.com/NasimMahdinazhad/20th-century/blob/main/TextMining.ipynb),
+           [Scraping Wikipedia](https://github.com/NasimMahdinazhad/20th-century/blob/main/scraping_wiki.ipynb),
+           [Named Entity Recognition.ipynb](https://github.com/NasimMahdinazhad/20th-century/blob/main/NamedEntityRecongition_Netwrok_Analysis.ipynb)
+           
            
 
