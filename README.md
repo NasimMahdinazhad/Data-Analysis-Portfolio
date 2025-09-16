@@ -13,7 +13,7 @@ This repository is a work in progress; I’m actively building it to reflect my 
 - [Portfolio Projects](#portfolio-projects)
   - Python
     - [Instacart Basket Analysis](#Instacart-Basket-Analysis)
-    - [Network Analysis of Countries Relationships in 20th Century](#Network-Analysis)
+    - [Network Analysis of Countries Relationships in 20th Century](#Historical-Network-Analysis)
   - R
   - SQL
     - [Rockbuster Stealth LLC](#rockbuster-stealth-llc)
