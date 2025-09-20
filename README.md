@@ -58,7 +58,8 @@ This section lists data analytics projects with short overviews of the tools use
 
 **Files:** [Text Mining](https://github.com/NasimMahdinazhad/20th-century/blob/main/TextMining.ipynb),
            [Scraping Wikipedia](https://github.com/NasimMahdinazhad/20th-century/blob/main/scraping_wiki.ipynb),
-           [Named Entity Recognition.ipynb](https://github.com/NasimMahdinazhad/20th-century/blob/main/NamedEntityRecongition_Netwrok_Analysis.ipynb)
+           [Named Entity Recognition.ipynb](https://github.com/NasimMahdinazhad/20th-century/blob/main/NamedEntityRecongition_Netwrok_Analysis.ipynb),
+           [Network Visualization.ipynb](https://github.com/NasimMahdinazhad/20th-century/blob/main/NamedEntityRecongition_Netwrok_Analysis.ipynb) 
            
            
 
